@@ -1,2 +1,5 @@
 # ph2-PickupableMasks
-Makes you able to place functional masks on your PH2 maps.
+Enables placing functional masks on your PH2 maps.<br>
+
+Usage: Place a lua custom actor, set its file name to Mask.lua and add a tag with the name of the mask as written below:<br>
+alien, chicken, blocky, fox, paperbag, blockyman, tiger, mrpresident, welder, horse, blockyrobber, hockey, icecream, unicorn, squid, shark, bandana, drinkhelmet, cowboy, greybeard, joker, sombrero, cupcake, gas, partyhat, pot
